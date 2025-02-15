@@ -10,7 +10,6 @@ Hi there! 👋 I’m a **Computer Science student** at Çanakkale 18 Mart Univer
 
 ## 🔭 **Currently Working With**
 - **Laravel** – Crafting dynamic and scalable backend solutions
-- **Django** – Exploring Python-powered web development
 - **PostgreSQL & MySQL** – Building efficient database-driven applications
 
 ---
